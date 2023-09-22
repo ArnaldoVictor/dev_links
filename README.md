@@ -18,7 +18,7 @@ Desafio exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologi
 <br>
 
 <p align="center">
-  <img alt="Print da aplicação Dev Links" src=".github/preview.jpg" width="100%">
+  <img alt="Print da aplicação Dev Links" src=".github/preview.png">
 </p>
 
 ## 🚀 Tecnologias
