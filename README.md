@@ -40,7 +40,3 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
-
----
-
-Créditos  [RocketSeat](https://app.rocketseat.com.br)
